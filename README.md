@@ -1,5 +1,5 @@
 # Backup BookStack    
-
+Edit endpoints in backup_script.sh
 Edit endpoints and Run script config_ssh.sh  
 Скрипт создает ключи SSH, если они отсутствуют, и затем копирует публичный ключ на удаленный сервер для более безопасной авторизации.
 
