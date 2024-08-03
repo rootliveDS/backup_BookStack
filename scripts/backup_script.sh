@@ -1,12 +1,12 @@
 
 #!/bin/bash
 
-IP_ADDRESS='45.8.230.193'                    # IP сервера с установленным BookStack
-REMOTE_USER='root'                           # Пользователь для передачи данных
+IP_ADDRESS=''                    # IP сервера с установленным BookStack
+REMOTE_USER=''                           # Пользователь для передачи данных
 
-MYSQL_USER='root'                            # Пользователь базы данных на сервере BookStack
-MYSQL_DB='bookstack'                         # База данных на сервере BookStack
-MYSQL_PASS='grs$23fs43rs'                    # Пароль пользователя базы данных на сервере BookStack
+MYSQL_USER=''                            # Пользователь базы данных на сервере BookStack
+MYSQL_DB=''                         # База данных на сервере BookStack
+MYSQL_PASS=''                    # Пароль пользователя базы данных на сервере BookStack
 
 DAYS_TO_KEEP=1                              # Количество дней хранения бекапов на локальном сервере
 
